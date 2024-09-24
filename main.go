@@ -13,4 +13,3 @@ func main() {
 	routes.RegisterRoutes(server)
 	server.Run(":8080") // localhost:8080
 }
-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
